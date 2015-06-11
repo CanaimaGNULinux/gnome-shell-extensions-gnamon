@@ -1,0 +1,113 @@
+gnome-shell-extensions-gnamon (1.10) kukenan; urgency=low
+
+  * [481ac3e] Cambiando idioma de Settings Center
+  * [d7a7b46] Idioma de apps en Settings Center
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 21 May 2014 16:16:47 -0430
+
+gnome-shell-extensions-gnamon (1.10) kukenan; urgency=low
+
+  * [481ac3e] Cambiando idioma de Settings Center
+  * [d7a7b46] Idioma de apps en Settings Center
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 21 May 2014 16:16:29 -0430
+
+gnome-shell-extensions-gnamon (1.10) kukenan; urgency=low
+
+  [ canaima ]
+  * UNRELEASED
+
+  [ Carlos Espinoza ]
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 21 May 2014 16:15:43 -0430
+
+gnome-shell-extensions-gnamon (1.1) kukenan; urgency=medium
+
+  * [b64e751] Removiendo la extensión axemenu
+
+ -- Erick Birbe <erickcion@gmail.com>  Tue, 04 Feb 2014 15:26:06 -0430
+
+gnome-shell-extensions-gnamon (1.0+9) unstable; urgency=low
+
+  * [4c7b00d] Para que los archviso de libreOficce se mantegan en la barra de tareas
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 05 Nov 2013 10:31:04 -0430
+
+gnome-shell-extensions-gnamon (1.0+8) unstable; urgency=low
+
+  * [514ea35] Devolviendo cambio
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Mon, 04 Nov 2013 11:08:04 -0430
+
+gnome-shell-extensions-gnamon (1.0+7) unstable; urgency=low
+
+  * [ece6779] Para que los archviso de libreOficce se mantegan en la barra de tareas
+  * [56c94ce] Corrigiendo switcher para que AltTab no se quede colgado.
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Mon, 28 Oct 2013 10:34:56 -0430
+
+gnome-shell-extensions-gnamon (1.0+6) unstable; urgency=low
+
+  * [2c19bed] Cambiando icons display a True Icons predeterminado a start-here-symbolic Busqueda con tracker-needle
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Thu, 05 Sep 2013 15:04:32 -0430
+
+gnome-shell-extensions-gnamon (1.0+5) unstable; urgency=low
+
+  * [a2c10b1] Seleccionar categorias con click en Axe Menu
+
+ -- Erick Birbe <erickcion@gmail.com>  Fri, 30 Aug 2013 14:47:35 -0430
+
+gnome-shell-extensions-gnamon (1.0+4) unstable; urgency=low
+
+  * [372deb7] Removiendo schema interno de la extensión "Show Desktop
+    Button" para prevenir bug con el reconocimiento de los
+    .gschemas.override en /usr/share/glib-2.0/schemas/. Incluyendo
+    extensión "Extend Left Box".
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Tue, 14 May 2013 12:59:24 -0430
+
+gnome-shell-extensions-gnamon (1.0+3) unstable; urgency=low
+
+  * [ff53995] Removiendo el disparador para /usr/share/glib-2.0/schemas y
+    moviendo rutina de compilación de schemas al target configure del
+    postinstall.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Mon, 13 May 2013 09:03:03 -0430
+
+gnome-shell-extensions-gnamon (1.0+2) unstable; urgency=low
+
+  * [823cc77] Agregando schemas a cada extensión. Habilitando rutina en el postinstall que compila los schemas de cada extensión.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Thu, 09 May 2013 16:25:07 -0430
+
+gnome-shell-extensions-gnamon (1.0+1) unstable; urgency=low
+
+  [ Erick Birbe ]
+  * [da9a213] Eliminando extensión user-theme
+
+  [ Luis Alejandro Martínez Faneyth ]
+  * [c3d5d2e] Ampliando mensaje descriptivo.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Mon, 06 May 2013 20:58:53 -0430
+
+gnome-shell-extensions-gnamon (1.0) unstable; urgency=low
+
+  [ Luis Alejandro Martínez Faneyth ]
+  * Versión Inicial
+  * [e3671fd] Agregando información del mantenedor. Agregando scripts del 
+              mantenedor. Agreganso schema para la extensión user-theme.
+  * [6aef937] Primer release 1.0-1
+  * [fd7416e] Cambiando formato del paquete fuente.
+  * [14d016c] Nueva versión.
+  * [612d155] Limpiando documentos innecesarios de las extensiones. 
+              Añadiendo avorrides para varios schemas de las extensiones. 
+              Moviendo schemas a lugares correctos.
+  * [3a5fbe8] Añadiendo triggers para cativar la compilación de los schemas.
+  * [6ca0d8f] Corrigiendo estándares.
+  * [32b8c54] Update changelog for 1.0 release
+
+  [ Erick Birbe ]
+  * [61578cf] Convirtiendo el archivo source/format en nativo
+
+ -- Erick Birbe <erickcion@gmail.com>  Tue, 23 Apr 2013 16:45:19 -0430

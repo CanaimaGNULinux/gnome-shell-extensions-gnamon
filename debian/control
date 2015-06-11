@@ -1,0 +1,32 @@
+Source: gnome-shell-extensions-gnamon
+Section: gnome
+Priority: extra
+Maintainer: Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.3
+Homepage: http://canaima.softwarelibre.gob.ve/
+Vcs-Git: git://gitorious.org/canaima-gnu-linux/gnome-shell-extensions-gnamon.git
+Vcs-Browser: http://gitorious.org/canaima-gnu-linux/gnome-shell-extensions-gnamon/trees/master
+
+Package: gnome-shell-extensions-gnamon
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, dconf-gsettings-backend | 
+  gsettings-backend, gnome-shell (>= 3.14), gnome-shell (<< 3.15),
+  gir1.2-gtop-2.0, gnome-shell-extensions
+Description: Conjunto de extensiones para el tema Gnamon
+ Contiene las siguientes extensiones para el tema 'Gnamon':
+ .
+  * AXE Menu.
+  * Message Notifier.
+  * Remove Username.
+  * Status area horizontal spacing.
+  * Coverflow ALT-TAB.
+  * Move Clock.
+  * Dash to Dock.
+  * Nothing to do.
+  * Show Desktop.
+  * Window List.
+  * Old Network Manager.
+  * Shut Down Menu.
+  * Windows Overlay Icons.
+  * Extend left box.

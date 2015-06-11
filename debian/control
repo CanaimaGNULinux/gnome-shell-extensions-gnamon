@@ -1,7 +1,7 @@
 Source: gnome-shell-extensions-gnamon
 Section: gnome
 Priority: extra
-Maintainer: Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>
+Maintainer: Rafael Mercado <rafaelmercado.29@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.3
 Homepage: http://canaima.softwarelibre.gob.ve/

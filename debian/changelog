@@ -1,3 +1,9 @@
+gnome-shell-extensions-gnamon (1.12) kukenan; urgency=medium
+
+  * [4e8e28e] Actualizando mantenedor
+
+ -- Rafael Mercado <rafaelmercado.29@gmail.com>  Thu, 11 Jun 2015 17:28:11 -0430
+
 gnome-shell-extensions-gnamon (1.11) kukenan; urgency=medium
 
   * actualizando gnome shell

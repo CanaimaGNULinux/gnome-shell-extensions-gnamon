@@ -1,3 +1,11 @@
+gnome-shell-extensions-gnamon (1.13) kukenan; urgency=medium
+
+  * [08a3e83] Eliminando extensiones y agregando extension media player gnome
+
+  [ Rafael Mercado ]
+
+ -- Rafael Mercado <rafaelmercado.29@gmail.com>  Fri, 12 Jun 2015 17:20:13 -0430
+
 gnome-shell-extensions-gnamon (1.12) kukenan; urgency=medium
 
   * [4e8e28e] Actualizando mantenedor
